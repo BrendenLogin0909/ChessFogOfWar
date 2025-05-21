@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#3F51B5</color>
+    <color name="primary_dark">#303F9F</color>
+    <color name="accent">#FF4081</color>
+    <color name="white_square">#FFCE9E</color>
+    <color name="black_square">#D18B47</color>
+    <color name="white_piece">#FFFFFF</color>
+    <color name="black_piece">#000000</color>
+    <color name="highlight">#80FFEB3B</color>
+    <color name="fog">#80000000</color>
+    <color name="blackout">#000000</color>
+    <color name="check_message">#FF0000</color>
+</resources>

@@ -1,0 +1,31 @@
+com.fogchess.app-pngs-0 C:\Documents\Application Data\Developments\Manus AI Development\fog-chess-app\app\build\generated\res\pngs\debug
+com.fogchess.app-resValues-1 C:\Documents\Application Data\Developments\Manus AI Development\fog-chess-app\app\build\generated\res\resValues\debug
+com.fogchess.app-mergeDebugResources-2 C:\Documents\Application Data\Developments\Manus AI Development\fog-chess-app\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.fogchess.app-mergeDebugResources-3 C:\Documents\Application Data\Developments\Manus AI Development\fog-chess-app\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.fogchess.app-debug-4 C:\Documents\Application Data\Developments\Manus AI Development\fog-chess-app\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.fogchess.app-debug-5 C:\Documents\Application Data\Developments\Manus AI Development\fog-chess-app\app\src\debug\res
+com.fogchess.app-main-6 C:\Documents\Application Data\Developments\Manus AI Development\fog-chess-app\app\src\main\res
+com.fogchess.app-material-1.8.0-7 C:\Users\Brenden\.gradle\caches\8.9\transforms\03ca7c9c9ba7d8c4d88d6271316c1ee2\transformed\material-1.8.0\res
+com.fogchess.app-jetified-emoji2-views-helper-1.2.0-8 C:\Users\Brenden\.gradle\caches\8.9\transforms\04e7c23172a96f01355a7fbd9392dafd\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.fogchess.app-constraintlayout-2.1.4-9 C:\Users\Brenden\.gradle\caches\8.9\transforms\240388f17e114225125cf902a6a0e0b2\transformed\constraintlayout-2.1.4\res
+com.fogchess.app-transition-1.2.0-10 C:\Users\Brenden\.gradle\caches\8.9\transforms\2c206e60610f8b5da08f1b3029427258\transformed\transition-1.2.0\res
+com.fogchess.app-lifecycle-livedata-core-2.5.1-11 C:\Users\Brenden\.gradle\caches\8.9\transforms\2ea9da0855bc3584bd56dbff55fa082e\transformed\lifecycle-livedata-core-2.5.1\res
+com.fogchess.app-recyclerview-1.1.0-12 C:\Users\Brenden\.gradle\caches\8.9\transforms\349227913523197d61d3fd3d53d0174f\transformed\recyclerview-1.1.0\res
+com.fogchess.app-drawerlayout-1.1.1-13 C:\Users\Brenden\.gradle\caches\8.9\transforms\3a304779ebb6f1c36b0abbfb463d2af7\transformed\drawerlayout-1.1.1\res
+com.fogchess.app-jetified-lifecycle-process-2.4.1-14 C:\Users\Brenden\.gradle\caches\8.9\transforms\41b17ab27369959c14d59363eb32039e\transformed\jetified-lifecycle-process-2.4.1\res
+com.fogchess.app-coordinatorlayout-1.1.0-15 C:\Users\Brenden\.gradle\caches\8.9\transforms\4e45c27f45670a72ec0a290f709e8fa7\transformed\coordinatorlayout-1.1.0\res
+com.fogchess.app-jetified-core-ktx-1.9.0-16 C:\Users\Brenden\.gradle\caches\8.9\transforms\501d582cc181a7b7a7315f72449a82de\transformed\jetified-core-ktx-1.9.0\res
+com.fogchess.app-jetified-viewpager2-1.0.0-17 C:\Users\Brenden\.gradle\caches\8.9\transforms\6585c61fa75dc5e452351596c58b16a9\transformed\jetified-viewpager2-1.0.0\res
+com.fogchess.app-fragment-1.3.6-18 C:\Users\Brenden\.gradle\caches\8.9\transforms\7123a308cd9f5fdd5c3a1a4419899224\transformed\fragment-1.3.6\res
+com.fogchess.app-lifecycle-runtime-2.5.1-19 C:\Users\Brenden\.gradle\caches\8.9\transforms\83820e8546401138fa32e1a3dd63a546\transformed\lifecycle-runtime-2.5.1\res
+com.fogchess.app-jetified-startup-runtime-1.1.1-20 C:\Users\Brenden\.gradle\caches\8.9\transforms\97ccfc1a4595374644ddb47c7023adee\transformed\jetified-startup-runtime-1.1.1\res
+com.fogchess.app-core-1.9.0-21 C:\Users\Brenden\.gradle\caches\8.9\transforms\a14cd7d49fd55aa0e483e92ac0ffa6dd\transformed\core-1.9.0\res
+com.fogchess.app-jetified-annotation-experimental-1.3.0-22 C:\Users\Brenden\.gradle\caches\8.9\transforms\cf40206dd45e00042e276be94af2de1a\transformed\jetified-annotation-experimental-1.3.0\res
+com.fogchess.app-jetified-appcompat-resources-1.6.1-23 C:\Users\Brenden\.gradle\caches\8.9\transforms\d26fd71277222e4296f3377cd1b8c651\transformed\jetified-appcompat-resources-1.6.1\res
+com.fogchess.app-jetified-activity-1.6.0-24 C:\Users\Brenden\.gradle\caches\8.9\transforms\d38a87a3ba8f8cf5b9bab348ca46561f\transformed\jetified-activity-1.6.0\res
+com.fogchess.app-appcompat-1.6.1-25 C:\Users\Brenden\.gradle\caches\8.9\transforms\d93c984bc91c7c28b9174d699cab125a\transformed\appcompat-1.6.1\res
+com.fogchess.app-jetified-savedstate-1.2.0-26 C:\Users\Brenden\.gradle\caches\8.9\transforms\e51648f09299472d104da3e7547c517a\transformed\jetified-savedstate-1.2.0\res
+com.fogchess.app-cardview-1.0.0-27 C:\Users\Brenden\.gradle\caches\8.9\transforms\f26521c860416daa65ac118cbd75f5ca\transformed\cardview-1.0.0\res
+com.fogchess.app-jetified-lifecycle-viewmodel-savedstate-2.5.1-28 C:\Users\Brenden\.gradle\caches\8.9\transforms\f915a4bc1b82c6a7f8c51dc72ea5b701\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\res
+com.fogchess.app-jetified-emoji2-1.2.0-29 C:\Users\Brenden\.gradle\caches\8.9\transforms\fb320f2472421ab3cf91b134cd464b84\transformed\jetified-emoji2-1.2.0\res
+com.fogchess.app-lifecycle-viewmodel-2.5.1-30 C:\Users\Brenden\.gradle\caches\8.9\transforms\fdf19ef19546f5aadd2dd44c4deb10df\transformed\lifecycle-viewmodel-2.5.1\res

@@ -1,0 +1,17 @@
+// Top-level build file
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:8.7.1'
+    }
+}
+
+// Do NOT include the plugin here
+// The plugin should only be in the app/build.gradle file
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}

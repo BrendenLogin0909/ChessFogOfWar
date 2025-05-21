@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Test Scenarios"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:layout_marginBottom="24dp" />
+
+    <Button
+        android:id="@+id/castlingTestButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:text="Castling Tests" />
+
+    <Button
+        android:id="@+id/enPassantTestButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:text="En Passant Tests" />
+
+    <Button
+        android:id="@+id/promotionTestButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:text="Promotion Tests" />
+
+    <!-- Individual promotion test buttons -->
+    <Button
+        android:id="@+id/btn_white_promotion_light"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="White Promotion on Light Square"
+        android:layout_marginStart="16dp"
+        android:layout_marginBottom="8dp"
+        android:visibility="gone" />
+
+    <Button
+        android:id="@+id/btn_white_promotion_dark"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="White Promotion on Dark Square"
+        android:layout_marginStart="16dp"
+        android:layout_marginBottom="8dp"
+        android:visibility="gone" />
+
+    <Button
+        android:id="@+id/btn_black_promotion_light"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Black Promotion on Light Square"
+        android:layout_marginStart="16dp"
+        android:layout_marginBottom="8dp"
+        android:visibility="gone" />
+
+    <Button
+        android:id="@+id/btn_black_promotion_dark"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Black Promotion on Dark Square"
+        android:layout_marginStart="16dp"
+        android:layout_marginBottom="8dp"
+        android:visibility="gone" />
+
+    <Button
+        android:id="@+id/btn_multiple_promotions"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Multiple Promotions"
+        android:layout_marginStart="16dp"
+        android:layout_marginBottom="8dp"
+        android:visibility="gone" />
+
+    <Button
+        android:id="@+id/btn_promotion_with_capture"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Promotion with Capture"
+        android:layout_marginStart="16dp"
+        android:layout_marginBottom="8dp"
+        android:visibility="gone" />
+
+    <!-- Add more test scenario buttons here as needed -->
+
+</LinearLayout> 

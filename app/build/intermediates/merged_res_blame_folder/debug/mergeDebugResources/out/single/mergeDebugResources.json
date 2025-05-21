@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "C:\\Users\\Brenden\\.gradle\\daemon\\8.9\\com.fogchess.app-debug-4:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Brenden\\.gradle\\daemon\\8.9\\com.fogchess.app-main-6:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Brenden\\.gradle\\daemon\\8.9\\com.fogchess.app-debug-4:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Brenden\\.gradle\\daemon\\8.9\\com.fogchess.app-main-6:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Brenden\\.gradle\\daemon\\8.9\\com.fogchess.app-debug-4:\\layout_castling_tests_menu.xml.flat",
+        "source": "C:\\Users\\Brenden\\.gradle\\daemon\\8.9\\com.fogchess.app-main-6:\\layout\\castling_tests_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Brenden\\.gradle\\daemon\\8.9\\com.fogchess.app-debug-4:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Brenden\\.gradle\\daemon\\8.9\\com.fogchess.app-main-6:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Brenden\\.gradle\\daemon\\8.9\\com.fogchess.app-debug-4:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Brenden\\.gradle\\daemon\\8.9\\com.fogchess.app-main-6:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Brenden\\.gradle\\daemon\\8.9\\com.fogchess.app-debug-4:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Brenden\\.gradle\\daemon\\8.9\\com.fogchess.app-main-6:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Brenden\\.gradle\\daemon\\8.9\\com.fogchess.app-debug-4:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Brenden\\.gradle\\daemon\\8.9\\com.fogchess.app-main-6:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Brenden\\.gradle\\daemon\\8.9\\com.fogchess.app-debug-4:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Brenden\\.gradle\\daemon\\8.9\\com.fogchess.app-main-6:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Brenden\\.gradle\\daemon\\8.9\\com.fogchess.app-debug-4:\\layout_en_passant_tests_menu.xml.flat",
+        "source": "C:\\Users\\Brenden\\.gradle\\daemon\\8.9\\com.fogchess.app-main-6:\\layout\\en_passant_tests_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Brenden\\.gradle\\daemon\\8.9\\com.fogchess.app-debug-4:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Brenden\\.gradle\\daemon\\8.9\\com.fogchess.app-main-6:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Brenden\\.gradle\\daemon\\8.9\\com.fogchess.app-debug-4:\\layout_activity_game.xml.flat",
+        "source": "C:\\Users\\Brenden\\.gradle\\daemon\\8.9\\com.fogchess.app-main-6:\\layout\\activity_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\Brenden\\.gradle\\daemon\\8.9\\com.fogchess.app-debug-4:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Brenden\\.gradle\\daemon\\8.9\\com.fogchess.app-main-6:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Brenden\\.gradle\\daemon\\8.9\\com.fogchess.app-debug-4:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Brenden\\.gradle\\daemon\\8.9\\com.fogchess.app-main-6:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Brenden\\.gradle\\daemon\\8.9\\com.fogchess.app-debug-4:\\layout_promotion_tests_menu.xml.flat",
+        "source": "C:\\Users\\Brenden\\.gradle\\daemon\\8.9\\com.fogchess.app-main-6:\\layout\\promotion_tests_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Brenden\\.gradle\\daemon\\8.9\\com.fogchess.app-debug-4:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Brenden\\.gradle\\daemon\\8.9\\com.fogchess.app-main-6:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Brenden\\.gradle\\daemon\\8.9\\com.fogchess.app-debug-4:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Brenden\\.gradle\\daemon\\8.9\\com.fogchess.app-main-6:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Brenden\\.gradle\\daemon\\8.9\\com.fogchess.app-debug-4:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Brenden\\.gradle\\daemon\\8.9\\com.fogchess.app-main-6:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Brenden\\.gradle\\daemon\\8.9\\com.fogchess.app-debug-4:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Brenden\\.gradle\\daemon\\8.9\\com.fogchess.app-main-6:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Brenden\\.gradle\\daemon\\8.9\\com.fogchess.app-debug-4:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Brenden\\.gradle\\daemon\\8.9\\com.fogchess.app-main-6:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Brenden\\.gradle\\daemon\\8.9\\com.fogchess.app-debug-4:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Brenden\\.gradle\\daemon\\8.9\\com.fogchess.app-main-6:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Brenden\\.gradle\\daemon\\8.9\\com.fogchess.app-debug-4:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Brenden\\.gradle\\daemon\\8.9\\com.fogchess.app-main-6:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.fogchess.app-debug-4:/layout_test_cases_menu.xml.flat",
+        "source": "com.fogchess.app-main-6:/layout/test_cases_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Brenden\\.gradle\\daemon\\8.9\\com.fogchess.app-debug-4:\\layout_test_scenarios_menu.xml.flat",
+        "source": "C:\\Users\\Brenden\\.gradle\\daemon\\8.9\\com.fogchess.app-main-6:\\layout\\test_scenarios_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Brenden\\.gradle\\daemon\\8.9\\com.fogchess.app-debug-4:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Brenden\\.gradle\\daemon\\8.9\\com.fogchess.app-main-6:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Brenden\\.gradle\\daemon\\8.9\\com.fogchess.app-debug-4:\\layout_pawn_promotion_dialog.xml.flat",
+        "source": "C:\\Users\\Brenden\\.gradle\\daemon\\8.9\\com.fogchess.app-main-6:\\layout\\pawn_promotion_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Brenden\\.gradle\\daemon\\8.9\\com.fogchess.app-debug-4:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Brenden\\.gradle\\daemon\\8.9\\com.fogchess.app-main-6:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Brenden\\.gradle\\daemon\\8.9\\com.fogchess.app-debug-4:\\layout_checkmate_tests_menu.xml.flat",
+        "source": "C:\\Users\\Brenden\\.gradle\\daemon\\8.9\\com.fogchess.app-main-6:\\layout\\checkmate_tests_menu.xml"
+    }
+]

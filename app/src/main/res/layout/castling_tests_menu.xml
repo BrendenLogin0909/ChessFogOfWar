@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:gravity="center">
+
+    <!-- Valid Castling Tests Section -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Valid Castling Tests"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:layout_marginBottom="16dp"/>
+
+    <Button
+        android:id="@+id/whiteKingsideCastleButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="White Kingside Castle (O-O)"
+        android:layout_marginBottom="8dp"/>
+
+    <Button
+        android:id="@+id/whiteQueensideCastleButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="White Queenside Castle (O-O-O)"
+        android:layout_marginBottom="8dp"/>
+
+    <Button
+        android:id="@+id/blackKingsideCastleButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Black Kingside Castle"
+        android:layout_marginBottom="8dp"/>
+
+    <Button
+        android:id="@+id/blackQueensideCastleButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Black Queenside Castle"
+        android:layout_marginBottom="16dp"/>
+
+    <!-- Invalid Castling Tests Section -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Invalid Castling Tests"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:layout_marginBottom="16dp"/>
+
+    <Button
+        android:id="@+id/kingMovedButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="King Has Moved"
+        android:layout_marginBottom="8dp"/>
+
+    <Button
+        android:id="@+id/rookMovedButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Rook Has Moved"
+        android:layout_marginBottom="8dp"/>
+
+    <Button
+        android:id="@+id/piecesBetweenButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Pieces Between King and Rook"
+        android:layout_marginBottom="8dp"/>
+
+    <Button
+        android:id="@+id/kingInCheckButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="King in Check"
+        android:layout_marginBottom="8dp"/>
+
+    <Button
+        android:id="@+id/passThroughCheckButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Pass Through Check"
+        android:layout_marginBottom="8dp"/>
+
+    <Button
+        android:id="@+id/landInCheckButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Land in Check"
+        android:layout_marginBottom="8dp"/>
+
+</LinearLayout> 

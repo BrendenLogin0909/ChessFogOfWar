@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:gravity="center">
+
+    <!-- Valid En Passant Tests Section -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Valid En Passant Tests"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:layout_marginBottom="16dp"/>
+
+    <Button
+        android:id="@+id/whiteEnPassantCaptureButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="White En Passant Capture"
+        android:layout_marginBottom="8dp"/>
+
+    <Button
+        android:id="@+id/blackEnPassantCaptureButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Black En Passant Capture"
+        android:layout_marginBottom="16dp"/>
+
+    <!-- Visual Indicator Tests Section -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Visual Indicator Tests"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:layout_marginBottom="16dp"/>
+
+    <Button
+        android:id="@+id/pawnsCanSeeButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Pawns Can See (Indicator Shown)"
+        android:layout_marginBottom="8dp"/>
+
+    <Button
+        android:id="@+id/otherPiecesCanSeeButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Other Pieces See (No Indicator)"
+        android:layout_marginBottom="8dp"/>
+
+    <Button
+        android:id="@+id/combinedVisibilityButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Combined Visibility Test"
+        android:layout_marginBottom="8dp"/>
+
+</LinearLayout> 

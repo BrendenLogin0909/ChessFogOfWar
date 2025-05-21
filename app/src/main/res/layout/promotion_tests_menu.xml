@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:gravity="center">
+
+    <Button
+        android:id="@+id/btn_white_promotion_light"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="White Promotion on Light Square"
+        android:layout_marginBottom="8dp" />
+
+    <Button
+        android:id="@+id/btn_white_promotion_dark"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="White Promotion on Dark Square"
+        android:layout_marginBottom="8dp" />
+
+    <Button
+        android:id="@+id/btn_black_promotion_light"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Black Promotion on Light Square"
+        android:layout_marginBottom="8dp" />
+
+    <Button
+        android:id="@+id/btn_black_promotion_dark"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Black Promotion on Dark Square"
+        android:layout_marginBottom="8dp" />
+
+    <Button
+        android:id="@+id/btn_multiple_promotions"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Multiple Promotions"
+        android:layout_marginBottom="8dp" />
+
+    <Button
+        android:id="@+id/btn_promotion_with_capture"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Promotion with Capture"
+        android:layout_marginBottom="8dp" />
+
+</LinearLayout> 
